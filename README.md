@@ -4,7 +4,9 @@
  ## Regras
 
  - Cadastro de usuario
+
     [ x ] Não é permitido cadastrar mais de um usuario com o mesmo email
+    
     [ x ] Não é permitido cadastrar usuário sem email
 
 - Cadastro de tag
